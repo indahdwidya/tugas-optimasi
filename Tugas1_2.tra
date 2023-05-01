@@ -1,0 +1,25 @@
+9,3,1,0,1000,Tugas1_2
+"POM for Windows 5,3 Build 177 Taylor edition 12"
+4,1,0,0,0,0,0
+0,1,0,0,1,0,0
+2,False,0,0,0,0,0,0
+4,4
+""
+"Bandung"
+"Jakarta"
+"Surabaya"
+"SUPPLY"
+""
+"Pabrik 1"
+"Pabrik 2"
+"Pabrik 3"
+"DEMAND"
+4
+dummy, 0, 0, 0, 0, 0,
+Pabrik 1, 0, 8000, 9000, 4000, 240,
+Pabrik 2, 0, 12000, 6000, 2000, 180,
+Pabrik 3, 0, 3000, 10000, 5000, 350,
+DEMAND, 0, 170, 320, 280, 0,
+-1, -1
+done
+""
